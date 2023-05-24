@@ -1,0 +1,10 @@
+* lack
+
+Lack, the core of Clack
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/lack.git |
+| commit  | c2edb84                                   |
+| systems | lack lack-util lack-middleware-backtrace  |
+|---------+-------------------------------------------|
+
