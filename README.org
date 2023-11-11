@@ -4,6 +4,6 @@ Lack, the core of Clack
 
 |---------+---------------------------------------------------------------------|
 | source  | git:https://github.com/fukamachi/lack.git                           |
-| commit  | 243b868                                                             |
+| commit  | c3190fb                                                             |
 | systems | lack lack-util lack-request lack-response lack-middleware-backtrace |
 |---------+---------------------------------------------------------------------|
