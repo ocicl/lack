@@ -7,4 +7,4 @@ Lack, the core of Clack
 | commit  | f3302ce                                                                                                  |
 | systems | lack lack-util lack-request lack-response lack-middleware-backtrace lack-component lack-middleware-mount |
 |---------+----------------------------------------------------------------------------------------------------------|
- 
+  
